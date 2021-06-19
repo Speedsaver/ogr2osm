@@ -1,3 +1,3 @@
 [submodule "translations"]
 	path = translations
-	url = https://github.com/Speedsaver/ogr2osm-translations.git
+	url = ../ogr2osm-translations.git
